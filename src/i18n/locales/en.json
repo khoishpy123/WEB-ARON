@@ -1,0 +1,36 @@
+{
+  "acceptToJoinBtn": "Accept to join",
+  "achievements": {
+    "headerAchievements": "OUR ACHIEVEMENTS",
+    "describeAchievements": "by convention. The important dates in a sitting monarch's reign may also be commemorated, an event often referred",
+    "years": "years",
+    "customers": "customers",
+    "consultant": "consultant",
+    "industries": "Industries"
+  },
+  "invitation": {
+    "headerInvitation": "Our Invitation.....",
+    "contentOneInvitation": "An anniversary is the date on which an event took place or an institution was founded in a previous year, and may also refer to the commemoration or celebration of that event. Was first used for Catholic feasts to commemorate saints.",
+    "contentTwoInvitation": "Most countries celebrate national anniversaries, typically called national days. These could be the date of independence of the nation or the adoption of a new constitution or form of government. There is no definite method for determining the date of establishment of an institution, and it is generally decided within the institution by convention. The important dates in a sitting monarch's reign may also be commemorated, an event often referred to as a \"jubilee\"."
+  },
+  "addressAndTimes": {
+    "headerAddressAndTimes": "Address and times"
+  },
+  "countdown": {
+    "headerCountdown": "Anniversary countdown",
+    "daysCountdown": "days",
+    "hoursCountdown": "hours",
+    "minutesCountdown": "minutes",
+    "secondsCountdown": "seconds"
+  },
+  "sendMail": {
+    "headerSendMail": "Heading2",
+    "describeSendMail": "An anniversary is the date on which an event took place or an institution was founded in a previous year, and may also refer to the commemoration or celebration of that event. Was first used for Catholic feasts to commemorate saints.",
+    "fullNameSendMail": "Full Name *",
+    "yourNameSendMail": "Your Name"
+  },
+  "popupSendMail": {
+    "headerPopupSendMail": "Thank you see you soon",
+    "describePopupSendMail": "No one likes big deltas between forecasts and actuals. Most models though are too limited, relying on sample datasets or just gut feel. Oracle Cloud ERP introduces machine-learning to predictive planning and forecasting so you can utilize broader datasets, reveal hidden bias, uncover significant deviations, and speed your overall response time."
+  }
+}
